@@ -6,7 +6,6 @@
     display: flex;
     flex-wrap: wrap;
     text-decoration: none;
-    font-family: Circular Std Book;
     font-weight: bolder;
     font-size: 16px;
     color: #F3F8FE;
@@ -42,7 +41,6 @@
 
 
 .item_container{ 
-    font-family:  Circular Spotify Tx T;
     color: #F3F8FE;  
     
 }
@@ -63,8 +61,6 @@
 
 
 .button{
-    
-    font-family: Circular Spotify Tx T;
     font-size: 16px;
     font-weight: bolder;
     border: none;
@@ -95,7 +91,6 @@
 
     
     font-size: 25px;
-    font-family: Circular Spotify Tx T;
     padding-top: 75px;
 
 }
@@ -129,7 +124,6 @@
     line-height: 25px;
     height: 100px;
     width: 240px;
-    font-family: Circular Std Book;
     text-align: center;
     font-size: 18px;
     
@@ -148,7 +142,6 @@
 
 .item_container4{
     margin-top: 60px;
-    font-family: Circular Spotify Tx T;
     font-size: 40px;
     line-height: 28px;
     text-align: center;
@@ -178,7 +171,6 @@
     background-color: white;
     width: 300px;
     height: 540px;
-    font-family: Circular Std Book;
     line-height: 15px;
     text-align: justify;
     
@@ -199,7 +191,6 @@
 .btn_comenzar{
     margin-top: 140px;
     margin-left: 5px;
-    font-family: Circular Spotify Tx T;
     font-size: 18px;
     border: none;
     padding-top: 5px;
@@ -216,7 +207,6 @@
 .btn_comenzar1{
     margin-top: 95px;
     margin-left: 5px;
-    font-family: Circular Spotify Tx T;
     font-size: 18px;
     border: none;
     padding-top: 5px;
@@ -234,7 +224,6 @@
 .btn_comenzar2{
     margin-top: 20px;
     margin-left: 5px;
-    font-family: Circular Spotify Tx T;
     font-weight: bolder;
     font-size: 18px;
     border: none;
@@ -268,7 +257,6 @@ ul{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
-    font-family: Circular Std Book;
     font-weight: lighter;
     font-size: 12px;
     color: #919496;
