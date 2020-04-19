@@ -1,10 +1,12 @@
-
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 .bar{ 
     display: flex;
     flex-wrap: wrap;
     text-decoration: none;
-    font-family: Circular Std Book !important;
+    font-family: Circular Std Book;
     font-weight: bolder;
     font-size: 16px;
     color: #F3F8FE;
@@ -126,7 +128,7 @@
     line-height: 25px;
     height: 100px;
     width: 240px;
-    font-family: Circular Std Book !important;
+    font-family: Circular Std Book;
     text-align: center;
     font-size: 18px;
     
