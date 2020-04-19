@@ -4,7 +4,8 @@
     display: flex;
     flex-wrap: wrap;
     text-decoration: none;
-    font-family: Circular Std Bold;
+    font-family: Circular Std Book !important;
+    font-weight: bolder;
     font-size: 16px;
     color: #F3F8FE;
     width: 100%;
@@ -125,7 +126,7 @@
     line-height: 25px;
     height: 100px;
     width: 240px;
-    font-family: Circular Std Bold;
+    font-family: Circular Std Book !important;
     text-align: center;
     font-size: 18px;
     
